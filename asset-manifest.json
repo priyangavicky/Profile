@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Profile/static/css/main.9bb97c94.css",
+    "main.js": "/Profile/static/js/main.41526e7a.js",
+    "static/media/Coffee Shop.png": "/Profile/static/media/Coffee Shop.716b597566d8b48d2de5.png",
+    "static/media/about.png": "/Profile/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/mailrecived.png": "/Profile/static/media/mailrecived.90e6023d36ca486c207b.png",
+    "static/media/Atema.jpg": "/Profile/static/media/Atema.e4db6ab22cb952bc55f0.jpg",
+    "static/media/skill4.png": "/Profile/static/media/skill4.42c607ebbf5cd0fa7580.png",
+    "static/media/actodo1.png": "/Profile/static/media/actodo1.907b4407cdc545c3661b.png",
+    "static/media/actodo4.png": "/Profile/static/media/actodo4.4c9fbbe37ec59e5ce9fe.png",
+    "static/media/actodo3.png": "/Profile/static/media/actodo3.9ac2c0bab3218b2104ba.png",
+    "static/media/p1.png": "/Profile/static/media/p1.9113b098a629bcc91cd5.png",
+    "static/media/skill8.png": "/Profile/static/media/skill8.45683e846af8438c2254.png",
+    "static/media/actodo6.png": "/Profile/static/media/actodo6.fe2562f86e2925aa6531.png",
+    "static/media/p2.png": "/Profile/static/media/p2.76cb50bf8aca9364befd.png",
+    "static/media/skill7.png": "/Profile/static/media/skill7.55c99564351cccffca84.png",
+    "static/media/Arsha.jpg": "/Profile/static/media/Arsha.f2439f239c5b18a5886d.jpg",
+    "static/media/actodo5.png": "/Profile/static/media/actodo5.0d1a3026591f0c37aefd.png",
+    "static/media/hero.jpg": "/Profile/static/media/hero.6db4fb8e648214138b17.jpg",
+    "static/media/skill9.png": "/Profile/static/media/skill9.e1ccc2d1e8d02e39de96.png",
+    "static/media/actodo2.png": "/Profile/static/media/actodo2.3f81b50b0ebef53a56a0.png",
+    "static/media/mailsend.png": "/Profile/static/media/mailsend.1145775e0a6ebcdd026d.png",
+    "static/media/bulkmail.png": "/Profile/static/media/bulkmail.e2f5e9afa078972f4eff.png",
+    "static/media/bulkmail (2).png": "/Profile/static/media/bulkmail (2).20b1046457566380c4a8.png",
+    "static/media/skill13.png": "/Profile/static/media/skill13.0dc9429dc2aaaa7d4485.png",
+    "static/media/mailmblview.png": "/Profile/static/media/mailmblview.c42366e7be653f612b4c.png",
+    "static/media/p3.png": "/Profile/static/media/p3.0dae9a85624b20140f95.png",
+    "static/media/skill11.png": "/Profile/static/media/skill11.d9fcf54cca347876e9d6.png",
+    "static/media/skill14.webp": "/Profile/static/media/skill14.3d095baa22bba1853fae.webp",
+    "static/media/skill10.webp": "/Profile/static/media/skill10.211ec007e61b91ef484e.webp",
+    "index.html": "/Profile/index.html",
+    "main.9bb97c94.css.map": "/Profile/static/css/main.9bb97c94.css.map",
+    "main.41526e7a.js.map": "/Profile/static/js/main.41526e7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb97c94.css",
+    "static/js/main.41526e7a.js"
+  ]
+}
